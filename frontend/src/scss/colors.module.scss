@@ -4,6 +4,7 @@ $dark: #02213b;
 $light: #2456a3;
 $lighter: #3cdff7;
 $error: #e6492e;
+$contrast-text: #ffffff;
 
 :export {
   primaryColor: $primary-color;
@@ -12,4 +13,5 @@ $error: #e6492e;
   light: $light;
   lighter: $lighter;
   error: $error;
+  contrastText: $contrast-text;
 }
